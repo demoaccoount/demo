@@ -1,0 +1,34 @@
+/* selector{property:value;} */
+
+
+
+/* selection by tag */
+div {
+    /* background: tomato; */
+    width: 300px;
+    padding: 20px;
+    display: inline-block;
+}
+
+/* selection by class */
+.firstdiv {
+    background: tomato;
+}
+
+/* selection by ID */
+#secondiv {
+    background: #d7d7d7;
+}
+
+.thirddiv {
+    background: #008bf5;
+}
+
+.parentdiv {
+    display: block;
+    /* background: black; */
+    width: 90%;
+    /* height: 50px; */
+    margin: 0 auto;
+    text-align: center;
+}
